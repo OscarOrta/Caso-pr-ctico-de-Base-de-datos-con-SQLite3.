@@ -1,0 +1,1 @@
+insert into clientes (nombre,email) select nombre,email from gt;
